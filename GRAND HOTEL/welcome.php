@@ -9,7 +9,7 @@
   
 	<style>
      div.back {
-  background: url(rooms.png) ;
+  background: url(images/rooms.png) ;
   background-repeat: no-repeat;
   background-size: cover;
   height: 600px;
@@ -80,7 +80,7 @@ input[type=submit]:hover {
 
 
     div.background-image {
-  background: url(bb.jpg) ;
+  background: url(images/bb.jpg) ;
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
@@ -173,19 +173,19 @@ footer {
 <hr style="text-align:center;width:10%;color:solid black;">
 <table width="100%" height="90%" border="0" padding="0" margin="0">
   <tr>
-    <td width="25%"><img src="poolcafe.jpeg" width="400px" height=250px></td>
-    <td width="25%"><img src="garden06cafe.jpg"  width="400px" height="250px"></td>
-    <td width="25%"><img src="food.jpg"  width="400px" height="250px"></td>
+    <td width="25%"><img src="images/poolcafe.jpeg" width="400px" height=250px></td>
+    <td width="25%"><img src="images/garden06cafe.jpg"  width="400px" height="250px"></td>
+    <td width="25%"><img src="images/food.jpg"  width="400px" height="250px"></td>
 </tr>
 <tr>
-    <td width="25%"><img src="waiterscafe.jpeg" width="400px" height=250px></td>
-    <td width="25%"><img src="partygardencafe.jpeg"  width="400px" height="250px"></td>
-    <td width="25%"><img src="kidsconer.png"  width="400px" height="250px"></td>
+    <td width="25%"><img src="images/waiterscafe.jpeg" width="400px" height=250px></td>
+    <td width="25%"><img src="images/partygardencafe.jpeg"  width="400px" height="250px"></td>
+    <td width="25%"><img src="images/kidsconer.png"  width="400px" height="250px"></td>
 </tr>
 <tr>
-    <td width="25%"><img src="rooms.png" width="400px" height=250px></td>
-    <td width="25%"><img src="cafehotel.jpeg"  width="400px" height="250px"></td>
-    <td width="25%"><img src="weedingcafe.jpeg"  width="400px" height="250px"></td>
+    <td width="25%"><img src="images/rooms.png" width="400px" height=250px></td>
+    <td width="25%"><img src="images/cafehotel.jpeg"  width="400px" height="250px"></td>
+    <td width="25%"><img src="images/weedingcafe.jpeg"  width="400px" height="250px"></td>
 </tr>
 </table>
 </a>
@@ -197,12 +197,12 @@ footer {
 <hr style="text-align:center;width:10%;color:solid black;">
 <table bgcolor="white" width="100%" height="90%" border="0">
   <tr height="30%">
-    <td width="25%"><img src="rooms.png" width="300px"></td>
+    <td width="25%"><img src="images/rooms.png" width="300px"></td>
     <td width="25%">
       <p style="text-align:center;color:black;font-size:200%;">Luxurious Rooms</p>
       
       Place where guests can expect to enjoy a meal prepared by expert chefs from the finest seasonal, local ingredients, before climbing the stairs to sleep in comfort and luxury.<hr style="text-align:center;width:20%;border:1px solid black"></td>
-    <td width="25%"><img src="chefs.png"  width="300px"></td>
+    <td width="25%"><img src="images/chefs.png"  width="300px"></td>
     <td width="25%">
     <p style="text-align:center;color:black;font-size:200%;">World Class Chefs</p>
       Think about setting the table and the mood, the right setting, tablecloth, real glasses, matching plates & etc, that's our tradition.
@@ -213,19 +213,19 @@ footer {
       <p style="text-align:center;color:black;font-size:200%;">Conference and Events</p>
       Wireless high speed internet is accessible in all public areas and meeting rooms. Air conditioned meeting rooms and easy accessibility for the physically challenged. Inquire for rates.<hr style="text-align:center;width:20%;color:black;"></td>
       
-      <td width="25%"><img src="conference.png" width="300px"></td>
+      <td width="25%"><img src="images/conference.png" width="300px"></td>
     <td width="25%">
     <p style="text-align:center;color:black;font-size:200%;">Coffee Shop</p>
     Coffee Shop, located at the hotel lobby, keeps your composure with deep and smooth original African coffees. It's a great place to stay with friends, family and business partners.<hr style="text-align:center;width:20%;color:black;"></td>
-      <td width="25%"><img src="coffee.png"  width="300px"></td>
+      <td width="25%"><img src="images/coffee.png"  width="300px"></td>
         </tr>
   <tr height="30%">
-    <td width="25%"><img src="kidsconer.png" width="300px"></td>
+    <td width="25%"><img src="images/kidsconer.png" width="300px"></td>
     <td width="25%">
       <p style="text-align:center;color:black;font-size:200%;">Kids Corner</p>
       
       Our outdoor Kids playground has a soft fall floor to soften the blow if your little one takes a tumble. With a slide and lots of tubes to climb in and out of, our playground is sure to tire them out. Children must be supervised at all times on the playground.<hr style="text-align:center;width:20%;border:1px solid black"></td>
-    <td width="25%"><img src="bar.png"  width="300px"></td>
+    <td width="25%"><img src="images/bar.png"  width="300px"></td>
     <td width="25%">
     <p style="text-align:center;color:black;font-size:200%;">Restaurant & Bar</p>
     If you are looking for a place to discover the traditional culinary taste and and home-style cooking GRAND HOTEL would be exactly what you need.<hr style="text-align:center;width:20%;border:1px solid black"></td>
@@ -308,15 +308,15 @@ footer {
 </div>
 
 <div class="div2">
-  <img src="mpesa.png" width="70px" >
+  <img src="images/mpesa.png" width="70px" >
 <br>
-  <img src="visa.png" width="70px">
+  <img src="images/visa.png" width="70px">
   <br>
-  <img src="mastercard.png" width="70px">
+  <img src="images/mastercard.png" width="70px">
   <br>
-  <img src="paypal.jpg" width="70px">
+  <img src="images/paypal.jpg" width="70px">
   <br>
-  <img src="american express.png" width="70px">
+  <img src="images/american express.png" width="70px">
 </div>
 <div class="div2">
 <form>
